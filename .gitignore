@@ -1,2 +1,3 @@
-/a.exe
-/parser.h.gch
+/build/
+*.o
+*.gch
